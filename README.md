@@ -18,7 +18,7 @@ For any questions/requests related to this course, please send an email to this 
 
 ### Course Objectives
 
-Speech and natural language processing is a subfield of artificial intelligence used in an increasing number of applications. This course will provide an overview and details of techniques and tasks used in the automatic processing of text adn speech, providing the key principles, algorithms and mathematical principles behind the state of the art, and confronting them with the reality of processing real data. Students will acquire detailed knowledge of the scientific issues and computational techniques in automatic speech and language processing.
+Speech and natural language processing is a subfield of artificial intelligence used in an increasing number of applications. This course will provide an overview and details of techniques and tasks used in the automatic processing of text and speech, covering certain history aspects of the field, the representation of textual and speech data, language modelling, machine translation, sentiment analysis and other labelling tasks, chatbots and speech synthesis and recognition. The aim is to provide the key principles, algorithms and mathematical principles behind the state of the art, and confronting them with the reality of processing real data. 
 
 Topics:
 
