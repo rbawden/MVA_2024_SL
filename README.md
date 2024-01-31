@@ -50,7 +50,7 @@ Each three-hour slot will have a lecture lasting approximately two hours, follow
 ### Evaluation
 
 Evaluation consists of 2 parts:
-- **Quizzes** (30% of the total grade): You'll be given a link to an online questionnaire (google form) and will have 30 minutes to complete the questionnaire, which will be activated exactly at 6:00pm and closed down at a time decided on-the-fly by the professors, generally 6:30pm. Any forms submitted after the deadline will be automatically rejected and graded as zero. The quizzes will contain comprehension questions and the best 5 4 grades out of the 6 5 quizzes will be used for the average. Between 6:30 and 7:00 there will be a Q&A period where you'll be able to ask questions about the course and quiz.
+- **Quizzes** (30% of the total grade): You'll be given a link to an online questionnaire (google form) and will have 30 minutes to complete the questionnaire, which will be activated exactly at 6:00pm and closed down at a time decided on-the-fly by the professors, generally 6:30pm. Any forms submitted after the deadline will be automatically rejected and graded as zero. The quizzes will contain comprehension questions and the best 5 grades out of the 6 quizzes will be used for the average. Between 6:30 and 7:00 there will be a Q&A period where you'll be able to ask questions about the course and quiz.
 - **Final exam** (70% of the total grade): This year (due to time constraints), there will be a final written exam, with theory questions covering topics covered in lectures. The exam will take place on the 29th March 2024 from 4pm-7pm (place TBD).
 
 ### Schedule
