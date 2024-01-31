@@ -55,13 +55,13 @@ Evaluation consists of 2 parts:
 
 ### Schedule
 
-- #1: Friday 1st March 2024: Introduction (Benoît Sagot), Salle Dussane (45 rue d'Ulm)
-- #2: Thursday 7th March 2024: Representation learning and language modelling 1 (Guillaume Wisniewski), Luton Amphitheatre (Faculté de médecine - Cochin campus)
-- #3: Friday 8th March 2024: Representation learning and language modelling 2 (Guillaume Wisniewski), Salle Jaurès (29 rue d'Ulm)
-- #4: Friday 15th March 2024: Machine translation (Rachel Bawden), Salle Dussane (45 rue d'Ulm)
-- #5: Thursday 21st March 2024: Sentiment analysis and labelling tasks (Chloé Clavel), Pavillon 1 (Faculté de médecine - Cordeliers campus)
-- #6: Friday 22nd March 2024 Chatbots and real world data challenges (Benoît Sagot and Djamé Seddah), Salle Dussane (45 rue d'Ulm)
-- #7: Wednesday 27th March 2024 Speech recognition and synthesis (Chloé Clavel), Location TBD
+- [#1: Friday 1st March 2024: Introduction](Course_#1) (Benoît Sagot), Salle Dussane (45 rue d'Ulm)
+- [#2: Thursday 7th March 2024: Representation learning and language modelling 1](Course_#2) (Guillaume Wisniewski), Luton Amphitheatre (Faculté de médecine - Cochin campus)
+- [#3: Friday 8th March 2024: Representation learning and language modelling 2](Course_#3) (Guillaume Wisniewski), Salle Jaurès (29 rue d'Ulm)
+- [#4: Friday 15th March 2024: Machine translation](Course_#4) (Rachel Bawden), Salle Dussane (45 rue d'Ulm)
+- [#5: Thursday 21st March 2024: Sentiment analysis and labelling tasks](Course_#5) (Chloé Clavel), Pavillon 1 (Faculté de médecine - Cordeliers campus)
+- [#6: Friday 22nd March 2024 Chatbots and real world data challenges](Course_#6] (Benoît Sagot and Djamé Seddah), Salle Dussane (45 rue d'Ulm)
+- [#7: Wednesday 27th March 2024 Speech recognition and synthesis](Course_#7) (Chloé Clavel), Location TBD
 - Exam: Friday 29th March 2024, Location TBD
 
 
