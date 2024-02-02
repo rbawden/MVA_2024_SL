@@ -69,7 +69,7 @@ Evaluation consists of 2 parts:
 
 _What happens if I get less than 10/20 on average? Can I take another exam?_
 
-Any obtained grade is final, so there is no possibility of 'rattrapage'.
+Any obtained grade is final, so there is no possibility of resitting the exam.
 
 _What happens if i cannot be present to the course, and therefore cannot do the online quiz?_
 
