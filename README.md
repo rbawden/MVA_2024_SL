@@ -69,10 +69,9 @@ Evaluation consists of 2 parts:
 
 _What happens if I get less than 10/20 on average? Can I take another exam?_
 
-TBD
-
+Any obtained grade is final, so there is no possibility of 'rattrapage'.
 
 _What happens if i cannot be present to the course, and therefore cannot do the online quiz?_
 
-Failure to submit the quiz on time will result in a zero/20 for that quiz, unless you can demonstrate that it was materially impossible for you to be present to the course. Such documented requestes should be sent to mva.speech.language@gmail.com together with the name and date of the missed quiz. The best 5 grades out of the 6 quizzes will be used for the average, giving you the possibility of skipping one quiz.
+Failure to submit the quiz on time will result in a mark of 0/20 for that quiz, unless you can demonstrate that it was materially impossible for you to be present to the course. Such documented requestes should be sent to mva.speech.language@gmail.com together with the name and date of the missed quiz. The best 5 grades out of the 6 quizzes will be used for the average, giving you the possibility of skipping one quiz.
 
