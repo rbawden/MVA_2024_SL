@@ -1,4 +1,4 @@
-# Algorithms for speech and natural language processing (MVA 2024)
+# Speech and natural language processing (MVA 2024)
 
 ## News
 
@@ -61,7 +61,7 @@ Evaluation consists of 2 parts:
 - [#4: Friday 15th March 2024: Machine translation](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%234) (Rachel Bawden), Salle Dussane (45 rue d'Ulm)
 - [#5: Thursday 21st March 2024: Sentiment analysis and labelling tasks](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%235) (Chloé Clavel), Pavillon 1 (Faculté de médecine - Cordeliers campus)
 - [#6: Friday 22nd March 2024 Chatbots and real world data challenges](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%236) (Benoît Sagot and Djamé Seddah), Salle Dussane (45 rue d'Ulm)
-- [#7: Wednesday 27th March 2024 Speech recognition and synthesis](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%237) (Chloé Clavel), Location TBD
+- [#7: Wednesday 27th March 2024 Speech emotion recognition and speech synthesis](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%237) (Chloé Clavel), Location TBD
 - Exam: Friday 29th March 2024, Location TBD
 
 
