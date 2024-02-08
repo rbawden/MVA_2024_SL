@@ -2,9 +2,9 @@
 
 ## Basic information
 
-Topic: Machine Translation
-Teacher: Rachel Bawden
-Date and time: Friday 15th March 2024, 4pm-7pm
-Place: Salle Dussanne, 45 rue d'Ulm
+- Topic: Machine Translation
+- Teacher: Rachel Bawden
+- Date and time: Friday 15th March 2024, 4pm-7pm
+- Place: Salle Dussanne, 45 rue d'Ulm
 
 ## Reading materials
