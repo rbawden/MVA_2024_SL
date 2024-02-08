@@ -55,14 +55,14 @@ Evaluation consists of 2 parts:
 
 ### Schedule
 
-- [#1: Friday 1st March 2024: Introduction](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%231) (Benoît Sagot), Salle Dussane (45 rue d'Ulm)
-- [#2: Thursday 7th March 2024: Representation learning and language modelling 1](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%232) (Guillaume Wisniewski), Luton Amphitheatre (Faculté de médecine - Cochin campus)
-- [#3: Friday 8th March 2024: Representation learning and language modelling 2](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%233) (Guillaume Wisniewski), Salle Jaurès (29 rue d'Ulm)
-- [#4: Friday 15th March 2024: Machine translation](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%234) (Rachel Bawden), Salle Dussane (45 rue d'Ulm)
-- [#5: Thursday 21st March 2024: Sentiment analysis and labelling tasks](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%235) (Chloé Clavel), Pavillon 1 (Faculté de médecine - Cordeliers campus)
-- [#6: Friday 22nd March 2024 Chatbots and real world data challenges](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%236) (Benoît Sagot and Djamé Seddah), Salle Dussane (45 rue d'Ulm)
-- [#7: Wednesday 27th March 2024 Speech emotion recognition and speech synthesis](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%237) (Chloé Clavel), Location TBD
-- Exam: Friday 29th March 2024, Location TBD
+- [#1: Friday 1st March 2024 (4pm-7pm): Introduction](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%231) (Benoît Sagot), Salle Dussane (45 rue d'Ulm)
+- [#2: Thursday 7th March 2024 (2pm-5pm): Representation learning and language modelling 1](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%232) (Guillaume Wisniewski), Luton Amphitheatre (Faculté de médecine - Cochin campus)
+- [#3: Friday 8th March 2024 (4pm-7pm): Representation learning and language modelling 2](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%233) (Guillaume Wisniewski), Salle Jaurès (29 rue d'Ulm)
+- [#4: Friday 15th March 2024 (4pm-7pm): Machine translation](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%234) (Rachel Bawden), Salle Dussane (45 rue d'Ulm)
+- [#5: Thursday 21st March 2024 (2pm-5pm): Sentiment analysis and labelling tasks](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%235) (Chloé Clavel), Pavillon 1 (Faculté de médecine - Cordeliers campus)
+- [#6: Friday 22nd March 2024 (4pm-7pm): Chatbots and real world data challenges](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%236) (Benoît Sagot and Djamé Seddah), Salle Dussane (45 rue d'Ulm)
+- [#7: Wednesday 27th March 2024 (9am-12pm): Speech emotion recognition and speech synthesis](https://github.com/rbawden/MVA_2024_SL/tree/main/Course_%237) (Chloé Clavel), Pavillon 3 (Faculté de médecine, Cordeliers campus)
+- Exam: Friday 29th March 2024 (4pm-7pm), Salle Dussane (45 rue d'Ulm)
 
 
 ### Q&A
