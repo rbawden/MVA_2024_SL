@@ -4,7 +4,7 @@
 
 - Topic: Representation learning and language modelling 1
 - Teacher: Guillaume Wisniewski
-- Date and time: Thursday 7th March 2024, 4pm-7pm
+- Date and time: Thursday 7th March 2024, 2pm-5pm
 - Place: Luton Amphitheatre, Faculté de médecine, Cordeliers campus
 
 
