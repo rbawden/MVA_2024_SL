@@ -8,4 +8,6 @@
 - Place: Salle Jaurès, 29 rue d'Ulm
 
 
-## Reading materials
+# Quiz
+
+[Here](https://docs.google.com/forms/d/e/1FAIpQLSe6cDWBqMmZEZYBT78U1GcPnO85q7EKnJ2IH5zLCSbXP_Iazg/viewform) is the link to today quiz
