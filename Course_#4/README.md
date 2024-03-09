@@ -7,4 +7,8 @@
 - Date and time: Friday 15th March 2024, 4pm-7pm
 - Place: Salle Dussanne, 45 rue d'Ulm
 
-## Reading materials
+## Reading and useful links
+
+- Opus parallel data repository: https://opus.nlpl.eu
+- WMT shared tasks
+- Sacrebleu: Standard implementation of BLEU: https://github.com/mjpost/sacrebleu
