@@ -10,5 +10,5 @@
 ## Reading and useful links
 
 - Opus parallel data repository: https://opus.nlpl.eu
-- WMT shared tasks
 - Sacrebleu: Standard implementation of BLEU: https://github.com/mjpost/sacrebleu
+- Watch this space for new links/reading after the class
