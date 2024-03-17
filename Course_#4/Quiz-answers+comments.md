@@ -11,16 +11,18 @@
 2. What is the main source of bias in MT models?
 
 - ✅ The data on which they were trained.
-   - This is the main source of bias - a model will learn to reproduce (or exaggerate) statistical tendencies in the data.
+   *- This is the main source of bias - a model will learn to reproduce (or exaggerate) statistical tendencies in the data.*
 - ❌ The algorithms used to train them.
 - ❌ Human evaluation.
 
 3. Why might a smaller subword segmentation vocabulary be better for low-resource language pairs?
 
 - ❌ There are fewer words to be covered, so it is not useful to have a bigger vocab.
+   - *There are fewer words in the training data, but that does not mean that the language has fewer words that need to be covered.*
 - ✅ There are fewer words to train on, so it is beneficial for generalisation and reducing the problem of unknown words.
   - *In general, when there is less data, it can be useful to choose a smaller subword vocabulary, which results in a higher degree of segmentation. There are fewer words in your training data, but you can hope that you have a better coverage (particularly of rare or unseen words) if you have more subwords.*
 - ❌ There is not enough parallel data to train a good quality tokeniser.
+  - *A tokeniser can be trained on monolingual data - it does not have to be parallel.* 
 
 4. Which of these is a criticism of the BLEU metric?
 
@@ -42,7 +44,9 @@
 6. A multilingual model that has separate encoders and decoders for each language...
 
 - ❌ Is equivalent to having separate encoder-decoder models for each language pair.
+  - *The difference is that in the multilingual variant, models are encouraged to represent the different languages in the same internal representation space. This is facilitated by having language pairs that have the same source or target languages (e.g. en-fr, en-de, en-cs and de-fr, cs-fr, zh-fr). Having an encoder-decoder per language pair makes each model separate and nothing encourages the internal representations to be in the same space for different models.*
 - ❌ Enables vocabulary sharing across languages.
+  - *If each language has its own encoder and decoder, the vocabulary is not shared. A universal MT model such as the one by Google (Johnson et al.) has a single encoder and decoder shared for all languages and this one does encourage vocab sharing.*
 - ✅ Encourages languages to be encoded in a shared representation space.
   - *The idea here is that you encourage languages to be encoded into a multilingual embedding space and each decoder can be trained to decode from that space. This is the case even if each language has its own encoder into the space and its own decoder out of the space.*
 - ✅ Could theoretically work for zero-shot language directions (i.e. for language directions that it was not explicitly trained on).
