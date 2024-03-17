@@ -2,7 +2,8 @@
 
 ## News
 
-Watch this space
+- 17/03: #4 - MT quiz answers online [here](https://github.com/rbawden/MVA_2024_SL/blob/main/Course_%234/Quiz-answers%2Bcomments.md)
+- 17/03: #4 - MT slides online [here](https://github.com/rbawden/MVA_2024_SL/blob/main/Course_%234/2024-MVA4-MT.pdf). Additional reading is also available on the [class page](https://github.com/rbawden/MVA_2024_SL/blob/main/Course_%234/).
 
 
 ## Course organisers
