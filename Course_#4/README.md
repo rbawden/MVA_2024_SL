@@ -7,6 +7,10 @@
 - Date and time: Friday 15th March 2024, 4pm-7pm
 - Place: Salle Dussanne, 45 rue d'Ulm
 
+## Quiz
+
+- Answers and comments found [here]().
+
 ## Reading and links
 
 If you're interesting in going further...
