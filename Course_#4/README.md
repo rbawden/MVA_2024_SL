@@ -11,4 +11,8 @@
 
 - Opus parallel data repository: https://opus.nlpl.eu
 - Sacrebleu: Standard implementation of BLEU: https://github.com/mjpost/sacrebleu
-- Watch this space for new links/reading after the class
+- Speech and Language Processing by Jurafsky and Martin:
+  - N-gram language models: https://web.stanford.edu/~jurafsky/slp3/3.pdf
+  - RNNs and LSTMS: https://web.stanford.edu/~jurafsky/slp3/9.pdf
+  - Transformers and Large Language Models: https://web.stanford.edu/~jurafsky/slp3/10.pdf
+  - Machine Translation: https://web.stanford.edu/~jurafsky/slp3/13.pdf
